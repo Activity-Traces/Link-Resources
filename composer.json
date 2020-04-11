@@ -1,0 +1,17 @@
+{
+    "name": "tarek/linkresources",
+    "description": "link resources to framework",
+    "authors": [{
+        "name": "Tarek",
+        "email": "tarek.djouad@gmail.com"
+    }],
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "classes/"
+        }
+
+    },
+
+    "require": {}
+}
